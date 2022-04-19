@@ -1,0 +1,9 @@
+bank system=> 
+customer {
+    accNum,
+    name,
+    balance,
+    transaction : [ {transactionType:"", transactionValu}]
+}
+
+addTransaction => transaction type (add balance, withdraw), transaction value
